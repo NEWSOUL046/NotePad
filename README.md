@@ -194,11 +194,11 @@ public class NoteSearch extends ListActivity implements SearchView.OnQueryTextLi
 
 ①运行截图
 
-![1](https://github.com/NEWSOUL046/NotePad/blob/master/Picture/change c.png)
+![1](https://github.com/NEWSOUL046/NotePad/blob/master/Picture/change%20C.png)
 
 选择背景更改为白色
 
-![1](C:\Users\zjj\Desktop\新建文件夹\UI.png)
+![1](https://github.com/NEWSOUL046/NotePad/blob/master/Picture/UI.png)
 
 ②实现思路
 
