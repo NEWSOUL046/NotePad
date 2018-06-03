@@ -16,7 +16,7 @@
 
 ①运行截图：
 
-![1](C:\Users\zjj\Desktop\新建文件夹\demo.png)
+![1](https://github.com/NEWSOUL046/NotePad/blob/master/Picture/demo.png)
 
 ②实现思路
 
@@ -51,7 +51,7 @@ private final void updateNote(String text, String title) {
 
 ①运行截图
 
-![1](C:\Users\zjj\Desktop\新建文件夹\search.png)
+![1](https://github.com/NEWSOUL046/NotePad/blob/master/Picture/search.png)
 
 ②实现思路
 
@@ -194,7 +194,7 @@ public class NoteSearch extends ListActivity implements SearchView.OnQueryTextLi
 
 ①运行截图
 
-![1](C:\Users\zjj\Desktop\新建文件夹\change C.png)
+![1](https://github.com/NEWSOUL046/NotePad/blob/master/Picture/change c.png)
 
 选择背景更改为白色
 
